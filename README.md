@@ -5,7 +5,7 @@ formal and informal greetings.
 
 Supports English and Spanish languages.
 
-Resuable library/framework
+Reusable library/framework
 
 Easy to type 'G$()' structure. (Similar to jQuery's '$' shorthand)
 
